@@ -4,7 +4,7 @@
 ## Introduction
 A program that shows all files' property in a specified directory (Subdirectory included).<br>
 
-<img align="center" src="screenshot.png"><br>
+<img align="center" src="screenshot.PNG"><br>
 
 ## Usage
 Change `%LOCAL_PATH%` into a directory in your computer.<br>

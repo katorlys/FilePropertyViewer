@@ -1,6 +1,6 @@
 def showFileProperty(path):
     import time,os
-    for root,dirs,files in os.walk(path,True):
+    for root,files in os.walk(path,True):
         print("Location: " + root + "\n")
         for filename in files:
             state = os.stat(os.path.join(root,filename))
